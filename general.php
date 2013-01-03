@@ -5,7 +5,7 @@
 
 
 class conexion
-{
+{ 
 
 // enlace
 var $link;
