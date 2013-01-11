@@ -1,4 +1,4 @@
-<?
+<?php
 
 //$trans=new generales;
 
